@@ -1,0 +1,12 @@
+D:\LearningPath\Programming\C#\MultiLevelArchitectureProject\MultiLevelArchitectureProject.DAL\bin\Debug\net8.0\MultiLevelArchitectureProject.DAL.deps.json
+D:\LearningPath\Programming\C#\MultiLevelArchitectureProject\MultiLevelArchitectureProject.DAL\bin\Debug\net8.0\MultiLevelArchitectureProject.DAL.dll
+D:\LearningPath\Programming\C#\MultiLevelArchitectureProject\MultiLevelArchitectureProject.DAL\bin\Debug\net8.0\MultiLevelArchitectureProject.DAL.pdb
+D:\LearningPath\Programming\C#\MultiLevelArchitectureProject\MultiLevelArchitectureProject.DAL\obj\Debug\net8.0\MultiLevelArchitectureProject.DAL.csproj.AssemblyReference.cache
+D:\LearningPath\Programming\C#\MultiLevelArchitectureProject\MultiLevelArchitectureProject.DAL\obj\Debug\net8.0\MultiLevelArchitectureProject.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\LearningPath\Programming\C#\MultiLevelArchitectureProject\MultiLevelArchitectureProject.DAL\obj\Debug\net8.0\MultiLevelArchitectureProject.DAL.AssemblyInfoInputs.cache
+D:\LearningPath\Programming\C#\MultiLevelArchitectureProject\MultiLevelArchitectureProject.DAL\obj\Debug\net8.0\MultiLevelArchitectureProject.DAL.AssemblyInfo.cs
+D:\LearningPath\Programming\C#\MultiLevelArchitectureProject\MultiLevelArchitectureProject.DAL\obj\Debug\net8.0\MultiLevelArchitectureProject.DAL.csproj.CoreCompileInputs.cache
+D:\LearningPath\Programming\C#\MultiLevelArchitectureProject\MultiLevelArchitectureProject.DAL\obj\Debug\net8.0\MultiLevelArchitectureProject.DAL.dll
+D:\LearningPath\Programming\C#\MultiLevelArchitectureProject\MultiLevelArchitectureProject.DAL\obj\Debug\net8.0\refint\MultiLevelArchitectureProject.DAL.dll
+D:\LearningPath\Programming\C#\MultiLevelArchitectureProject\MultiLevelArchitectureProject.DAL\obj\Debug\net8.0\MultiLevelArchitectureProject.DAL.pdb
+D:\LearningPath\Programming\C#\MultiLevelArchitectureProject\MultiLevelArchitectureProject.DAL\obj\Debug\net8.0\ref\MultiLevelArchitectureProject.DAL.dll

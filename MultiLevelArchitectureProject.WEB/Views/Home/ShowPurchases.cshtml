@@ -1,0 +1,29 @@
+﻿@model IEnumerable<MultiLevelArchitectureProject.WEB.Models.PurchaseViewModel>
+
+<html>
+<body>
+    <form>
+        <h2>Таблица заказов</h2>
+        <p>
+            <button asp-controller="Home" asp-action="CreatePurchase" class="button">Добавить заказ</button>
+        </p>
+        <table class="table">
+            <tr><th>Имя</th><th>Цена</th><th>Дата</th></tr>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.user?.FullName</td>
+                    <td>@item.price</td>
+                    <td>@item.date.ToShortDateString()</td>
+                    <td>
+                        <button asp-controller="Home" asp-action="EditPurchase" asp-route-id="@item.Id">Изменить</button>
+                    </td>
+                    <td>
+                        <button asp-controller="Home" asp-action="DeletePurchase" asp-route-id="@item.Id">Удалить</button>
+                    </td>
+                </tr>
+            }
+        </table>
+    </form>
+</body>
+</html>

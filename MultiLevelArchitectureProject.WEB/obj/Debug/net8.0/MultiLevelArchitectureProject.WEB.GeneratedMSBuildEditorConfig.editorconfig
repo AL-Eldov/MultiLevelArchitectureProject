@@ -1,0 +1,55 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MultiLevelArchitectureProject.WEB
+build_property.RootNamespace = MultiLevelArchitectureProject.WEB
+build_property.ProjectDir = D:\LearningPath\Programming\C#\MultiLevelArchitectureProject\MultiLevelArchitectureProject.WEB\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\LearningPath\Programming\C#\MultiLevelArchitectureProject\MultiLevelArchitectureProject.WEB
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/LearningPath/Programming/C\#/MultiLevelArchitectureProject/MultiLevelArchitectureProject.WEB/Views/Home/CreatePurchase.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGVQdXJjaGFzZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LearningPath/Programming/C\#/MultiLevelArchitectureProject/MultiLevelArchitectureProject.WEB/Views/Home/CreateUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGVVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LearningPath/Programming/C\#/MultiLevelArchitectureProject/MultiLevelArchitectureProject.WEB/Views/Home/EditPurchase.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0UHVyY2hhc2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LearningPath/Programming/C\#/MultiLevelArchitectureProject/MultiLevelArchitectureProject.WEB/Views/Home/EditUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0VXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LearningPath/Programming/C\#/MultiLevelArchitectureProject/MultiLevelArchitectureProject.WEB/Views/Home/ShowPurchases.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaG93UHVyY2hhc2VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LearningPath/Programming/C\#/MultiLevelArchitectureProject/MultiLevelArchitectureProject.WEB/Views/Home/ShowUsers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaG93VXNlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LearningPath/Programming/C\#/MultiLevelArchitectureProject/MultiLevelArchitectureProject.WEB/Views/Home/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LearningPath/Programming/C\#/MultiLevelArchitectureProject/MultiLevelArchitectureProject.WEB/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LearningPath/Programming/C\#/MultiLevelArchitectureProject/MultiLevelArchitectureProject.WEB/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

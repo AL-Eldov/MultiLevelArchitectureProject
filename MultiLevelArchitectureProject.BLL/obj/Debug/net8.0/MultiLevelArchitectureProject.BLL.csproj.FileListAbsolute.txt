@@ -1,0 +1,15 @@
+D:\LearningPath\Programming\C#\MultiLevelArchitectureProject\MultiLevelArchitectureProject.BLL\bin\Debug\net8.0\MultiLevelArchitectureProject.BLL.deps.json
+D:\LearningPath\Programming\C#\MultiLevelArchitectureProject\MultiLevelArchitectureProject.BLL\bin\Debug\net8.0\MultiLevelArchitectureProject.BLL.dll
+D:\LearningPath\Programming\C#\MultiLevelArchitectureProject\MultiLevelArchitectureProject.BLL\bin\Debug\net8.0\MultiLevelArchitectureProject.BLL.pdb
+D:\LearningPath\Programming\C#\MultiLevelArchitectureProject\MultiLevelArchitectureProject.BLL\bin\Debug\net8.0\MultiLevelArchitectureProject.DAL.dll
+D:\LearningPath\Programming\C#\MultiLevelArchitectureProject\MultiLevelArchitectureProject.BLL\bin\Debug\net8.0\MultiLevelArchitectureProject.DAL.pdb
+D:\LearningPath\Programming\C#\MultiLevelArchitectureProject\MultiLevelArchitectureProject.BLL\obj\Debug\net8.0\MultiLevelArchitectureProject.BLL.csproj.AssemblyReference.cache
+D:\LearningPath\Programming\C#\MultiLevelArchitectureProject\MultiLevelArchitectureProject.BLL\obj\Debug\net8.0\MultiLevelArchitectureProject.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\LearningPath\Programming\C#\MultiLevelArchitectureProject\MultiLevelArchitectureProject.BLL\obj\Debug\net8.0\MultiLevelArchitectureProject.BLL.AssemblyInfoInputs.cache
+D:\LearningPath\Programming\C#\MultiLevelArchitectureProject\MultiLevelArchitectureProject.BLL\obj\Debug\net8.0\MultiLevelArchitectureProject.BLL.AssemblyInfo.cs
+D:\LearningPath\Programming\C#\MultiLevelArchitectureProject\MultiLevelArchitectureProject.BLL\obj\Debug\net8.0\MultiLevelArchitectureProject.BLL.csproj.CoreCompileInputs.cache
+D:\LearningPath\Programming\C#\MultiLevelArchitectureProject\MultiLevelArchitectureProject.BLL\obj\Debug\net8.0\MultiLevelArchitectureProject.BLL.csproj.CopyComplete
+D:\LearningPath\Programming\C#\MultiLevelArchitectureProject\MultiLevelArchitectureProject.BLL\obj\Debug\net8.0\MultiLevelArchitectureProject.BLL.dll
+D:\LearningPath\Programming\C#\MultiLevelArchitectureProject\MultiLevelArchitectureProject.BLL\obj\Debug\net8.0\refint\MultiLevelArchitectureProject.BLL.dll
+D:\LearningPath\Programming\C#\MultiLevelArchitectureProject\MultiLevelArchitectureProject.BLL\obj\Debug\net8.0\MultiLevelArchitectureProject.BLL.pdb
+D:\LearningPath\Programming\C#\MultiLevelArchitectureProject\MultiLevelArchitectureProject.BLL\obj\Debug\net8.0\ref\MultiLevelArchitectureProject.BLL.dll
