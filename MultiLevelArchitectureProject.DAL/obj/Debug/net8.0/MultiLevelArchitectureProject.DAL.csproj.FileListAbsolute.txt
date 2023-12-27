@@ -10,3 +10,4 @@ D:\LearningPath\Programming\C#\MultiLevelArchitectureProject\MultiLevelArchitect
 D:\LearningPath\Programming\C#\MultiLevelArchitectureProject\MultiLevelArchitectureProject.DAL\obj\Debug\net8.0\refint\MultiLevelArchitectureProject.DAL.dll
 D:\LearningPath\Programming\C#\MultiLevelArchitectureProject\MultiLevelArchitectureProject.DAL\obj\Debug\net8.0\MultiLevelArchitectureProject.DAL.pdb
 D:\LearningPath\Programming\C#\MultiLevelArchitectureProject\MultiLevelArchitectureProject.DAL\obj\Debug\net8.0\ref\MultiLevelArchitectureProject.DAL.dll
+D:\LearningPath\Programming\C#\MultiLevelArchitectureProject\MultiLevelArchitectureProject.DAL\obj\Debug\net8.0\MultiLevelArchitectureProject.DAL.sourcelink.json

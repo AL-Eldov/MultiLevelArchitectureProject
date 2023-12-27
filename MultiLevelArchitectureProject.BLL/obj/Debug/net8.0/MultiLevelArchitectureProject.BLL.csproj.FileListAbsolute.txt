@@ -13,3 +13,4 @@ D:\LearningPath\Programming\C#\MultiLevelArchitectureProject\MultiLevelArchitect
 D:\LearningPath\Programming\C#\MultiLevelArchitectureProject\MultiLevelArchitectureProject.BLL\obj\Debug\net8.0\refint\MultiLevelArchitectureProject.BLL.dll
 D:\LearningPath\Programming\C#\MultiLevelArchitectureProject\MultiLevelArchitectureProject.BLL\obj\Debug\net8.0\MultiLevelArchitectureProject.BLL.pdb
 D:\LearningPath\Programming\C#\MultiLevelArchitectureProject\MultiLevelArchitectureProject.BLL\obj\Debug\net8.0\ref\MultiLevelArchitectureProject.BLL.dll
+D:\LearningPath\Programming\C#\MultiLevelArchitectureProject\MultiLevelArchitectureProject.BLL\obj\Debug\net8.0\MultiLevelArchitectureProject.BLL.sourcelink.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MultiLevelArchitectureProject.WEB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70db262336be9a88faf41ec5e8477491df386c94")]
 [assembly: System.Reflection.AssemblyProductAttribute("MultiLevelArchitectureProject.WEB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MultiLevelArchitectureProject.WEB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

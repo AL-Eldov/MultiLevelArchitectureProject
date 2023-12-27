@@ -37,3 +37,4 @@ D:\LearningPath\Programming\C#\MultiLevelArchitectureProject\MultiLevelArchitect
 D:\LearningPath\Programming\C#\MultiLevelArchitectureProject\MultiLevelArchitectureProject.WEB\obj\Debug\net8.0\MultiLevelArchitectureProject.WEB.pdb
 D:\LearningPath\Programming\C#\MultiLevelArchitectureProject\MultiLevelArchitectureProject.WEB\obj\Debug\net8.0\MultiLevelArchitectureProject.WEB.genruntimeconfig.cache
 D:\LearningPath\Programming\C#\MultiLevelArchitectureProject\MultiLevelArchitectureProject.WEB\obj\Debug\net8.0\ref\MultiLevelArchitectureProject.WEB.dll
+D:\LearningPath\Programming\C#\MultiLevelArchitectureProject\MultiLevelArchitectureProject.WEB\obj\Debug\net8.0\MultiLevelArchitectureProject.WEB.sourcelink.json
