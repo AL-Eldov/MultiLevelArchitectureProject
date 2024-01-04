@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("be1bf7f4-4dd1-42dd-8192-2729eb87f781")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("MultiLevelArchitectureProject.WEB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70db262336be9a88faf41ec5e8477491df386c94")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d13d4b579a3fc37470998407b7af8443ce925eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("MultiLevelArchitectureProject.WEB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MultiLevelArchitectureProject.WEB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

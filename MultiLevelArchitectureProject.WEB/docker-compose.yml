@@ -1,0 +1,31 @@
+version: "3.4"
+networks:
+  docker_test1-net:
+    driver: bridge
+services:
+    app:
+        container_name: Multi-Level-Architecture-Project
+        build: 
+            context: .
+            dockerfile: Dockerfile
+        ports:
+           - "8080:8080"
+        networks:
+           - docker_test1-net
+        depends_on:
+           - postgres_db
+    postgres_db:
+        container_name: postgres
+        image: postgres:latest
+        environment:
+          POSTGRES_USER: testuser
+          POSTGRES_PASSWORD: 12345
+          POSTGRES_DB: testuser
+        ports:
+          - "5432:5432"
+        networks:
+          - docker_test1-net
+        volumes:
+          - postgres-data:/var/lib/postgresql/data
+volumes:
+  postgres-data:       

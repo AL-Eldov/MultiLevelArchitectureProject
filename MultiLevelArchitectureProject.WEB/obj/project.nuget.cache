@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JvEPu5mfk9C5R/qVGpc6wZtcXec11nFkKUQYGiBkpfMVvrpJCyucBRrGRxxU4cMirAxXkAMYi9gzRy422Nbcgg==",
+  "dgSpecHash": "KHToOUryCytK12MQ0r9bnQ/Boii22CF2n+sxyxRn7lY5KIEhXxxvgC98YUjrG+5tFQkMT3tZvn25omoQ167sLQ==",
   "success": true,
   "projectFilePath": "D:\\LearningPath\\Programming\\C#\\MultiLevelArchitectureProject\\MultiLevelArchitectureProject.WEB\\MultiLevelArchitectureProject.WEB.csproj",
   "expectedPackageFiles": [
@@ -19,6 +19,7 @@
     "C:\\Users\\AL_Eldnov\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\AL_Eldnov\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
     "C:\\Users\\AL_Eldnov\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\AL_Eldnov\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
     "C:\\Users\\AL_Eldnov\\.nuget\\packages\\npgsql\\8.0.0\\npgsql.8.0.0.nupkg.sha512",
     "C:\\Users\\AL_Eldnov\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\8.0.0\\npgsql.entityframeworkcore.postgresql.8.0.0.nupkg.sha512"
   ],

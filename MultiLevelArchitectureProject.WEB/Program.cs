@@ -10,4 +10,3 @@ startup.Configure(app);
 app.MapControllerRoute(name: "default", pattern: "{controller=Home}/{action=ShowUsers}/{id?}");
 
 app.Run();
-
